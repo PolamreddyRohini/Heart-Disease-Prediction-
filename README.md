@@ -1,7 +1,5 @@
 # Heart Disease Prediction Using AI & ML
 
-📄 [Download Full Project Report (PDF)](./Heart%20Disease%20Prediction%20Using%20AI%20%26%20ML%201.pdf)
-
 ## 📌 Project Overview
 
 This project aims to develop a machine learning model to **predict heart disease** using clinical data and advanced algorithms. By analyzing medical data, the model identifies patterns associated with heart disease and provides accurate early diagnosis, which is critical for saving lives.
